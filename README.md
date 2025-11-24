@@ -467,8 +467,11 @@ The following world-class features are planned for future releases to transform 
 ## Implementation Priority
 
 **Phase 1 (3-6 months)**: User authentication, categories/tags, priority levels, search/filter
+
 **Phase 2 (6-12 months)**: Recurring tasks, notifications, subtasks, collaboration
+
 **Phase 3 (12-18 months)**: API, mobile apps, integrations, analytics
+
 **Phase 4 (18-24 months)**: AI features, enterprise features, advanced visualization
 
 ## License
@@ -486,7 +489,7 @@ This project is licensed under the terms specified in the LICENSE file.
 
 ## Author
 
-Created as part of the AI Dev Course
+Created as part of the AI-Dev-Zoomcamp
 
 ## Acknowledgments
 
